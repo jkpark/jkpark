@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkpark&layout=compact&hide=html" alt="jkpark" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkpark&layout=compact&hide=html" alt="jkpark" />
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jkpark&show_icons=true" alt="jkpark" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=jkpark&show_icons=true" alt="jkpark" />
 
