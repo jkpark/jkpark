@@ -1,4 +1,7 @@
-### Hi there 👋
+
+
+![GitHub followers](https://img.shields.io/github/followers/jkpark?logo=GitHub&style=for-the-badge)
+
 
 <!--
 **jkpark/jkpark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkpark&layout=compact&hide=html" alt="jkpark" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jkpark&show_icons=true" alt="jkpark" /></p>
+
